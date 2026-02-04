@@ -1,12 +1,5 @@
 Bullet Hell - Console Platformer
 
- ____         _ _      _     _   _      _ _
-| __ ) _   _| | | ___| |_  | | | | ___| | |
-|  _ \| | | | | |/ _ \ __| | |_| |/ _ \ | |
-| |_) | |_| | | |  __/ |_  |  _  |  __/ | |
-|____/ \__,_|_|_|\___|\__| |_| |_|\___|_|_|
-
-
 A classic C++ console-based platformer game featuring physics, enemy patrolling, and collectible-based progression. This game utilizes the Windows API for high-performance console rendering and real-time input handling.
 
 🚀 Features
@@ -81,12 +74,12 @@ Game running too fast/slow? Adjust the Sleep(30); value in the gameplay loop in 
 
 🗺️ Roadmap
 
-[ ] Add multiple level maps.
+1) Add multiple level maps.
 
-[ ] Implement projectile shooting for the player.
+2) Implement projectile shooting for the player.
 
-[ ] Add sound effects using Beep() or PlaySound().
+3) Add sound effects using Beep() or PlaySound().
 
-[ ] High score persistence (saving to a .txt file).
+4) High score persistence (saving to a .txt file).
 
 Developed as a C++ Technical Project.
